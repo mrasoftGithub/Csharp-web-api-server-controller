@@ -1,4 +1,4 @@
-# Minimal API and Web API Server Controllers
+# Web API Server Controllers
 Voorbeeldcode bij Blog artikel https://www.mrasoft.nl/csharp-minimal-api/
 
 Hier staat een ASP .NET Core Web API-solution. Voor de solution is de Visual Studio 2022 IDE gebruikt. Het gebruikte .Net Framework is .Net 6.0.
